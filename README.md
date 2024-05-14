@@ -4,7 +4,7 @@
 - 📫 How to reach me: (look in profile)
 - ⚡ Fun fact: I really like Umbrella Leaf from Plant vs. Zombies
 
-<!---
-UmbrellaLeaf5/UmbrellaLeaf5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UmbrellaLeaf5&&show_icons=true&theme=dark" style="margin-right: 10px;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UmbrellaLeaf5&&show_icons=true&theme=dark">
+</div>
