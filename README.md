@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I really like Umbrella Leaf from Plant vs. Zombies
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UmbrellaLeaf5&&show_icons=true&theme=dark" style="margin-right: 10px;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UmbrellaLeaf5&&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmbrellaLeaf5&&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&&theme=dark" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbrellaLeaf5&&show_icons=true&&theme=dark&&layout=donut">
 </div>
