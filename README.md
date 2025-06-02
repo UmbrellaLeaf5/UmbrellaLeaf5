@@ -1,7 +1,7 @@
 # `UmbrellaLeaf5`: Dmitry Krivoruchko
 
 <!-- About me: -->
-- 🌴 Hello World! I’m [@UmbrellaLeaf5](https://github.com/UmbrellaLeaf5), my real name is Dmitry Krivoruchko. I'm [MIPT DAFE/RSE](https://mipt-rse.ru) student.
+- 🌴 Hello World! I’m [@UmbrellaLeaf5](https://github.com/UmbrellaLeaf5), my real name is Dmitry Krivoruchko. I'm [MIPT AES DAFE](https://mipt-rse.ru) student.
 - 📫 How to reach me:
   * [`VK`](https://vk.com/kdi_umb)
   * [`Telegram`](https://t.me/dontknowlad)
