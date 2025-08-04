@@ -4,7 +4,7 @@
 - 🌴 Hello World! I’m [@UmbrellaLeaf5](https://github.com/UmbrellaLeaf5), my real name is Dmitry Krivoruchko. I'm [MIPT AES DAFE](https://mipt-rse.ru) student.
 - 📫 How to reach me:
   * [`VK`](https://vk.com/kdi_umb)
-  * [`Telegram`](https://t.me/dontknowlad)
+  * [`Telegram`](https://t.me/kdi_umb)
 - ⚡ Fun fact: I really like [Umbrella Leaf](https://vk.com/umbrella_leaf) from Plant vs. Zombies!
 
 <hr></hr>
