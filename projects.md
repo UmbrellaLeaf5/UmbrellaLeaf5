@@ -2,7 +2,7 @@
 
 ### Corporate Q&A Platform "Muza" 🏢
 
-Team project: Commercial project, full-stack enterprise solution, ready to production (as MVP)
+[Team](https://github.com/Team5-Muza) project: Commercial project, full-stack enterprise solution, ready to production (as MVP)
 
 - **My Role:** Sole Backend Developer (in team of 6 specialists) 👨‍💻
 - **Tech Stack:**
