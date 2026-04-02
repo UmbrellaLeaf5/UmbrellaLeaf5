@@ -1,11 +1,10 @@
-name: Github Stats
+name: Generate Profile Assets
 
 # Schedule the workflow to run daily at midnight UTC
 on:
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual triggering of the workflow
   workflow_dispatch:
 
 jobs:
@@ -26,12 +25,21 @@ jobs:
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Generate the snake animation
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#d68c6d
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          keep_files: true
-          commit_message: "update stats"
+          commit_message: "update profile assets (snake & stats)"
