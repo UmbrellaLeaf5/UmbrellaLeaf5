@@ -16,17 +16,17 @@
 
 <div align="center">
   <!-- Stats: -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UmbrellaLeaf5&&show_icons=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&&theme=dark" height="250">
+  <img src="https://github.com/UmbrellaLeaf5/UmbrellaLeaf5/blob/output/stats.svg" height="250">
 
   <!-- Umbrella Leaf from PvZ (fan .gif): -->
   <img src="https://static.wikia.nocookie.net/pvzcc/images/3/3b/Ezgif.com-video-to-gif-converter.gif/revision/latest?cb=20231227060849" height="250">
 </div>
 
-<!-- <hr></hr> -->
+---
 
 ## [🚀 My team- and pet-projects (click)](./projects.md)
 
-<hr></hr>
+---
 
 <!-- ## Snake time! -->
 
