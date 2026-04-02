@@ -16,7 +16,7 @@
 
 <div align="center">
   <!-- Stats: -->
-  <img src="https://github.com/UmbrellaLeaf5/UmbrellaLeaf5/blob/output/stats.svg" height="250">
+  <img src="https://raw.githubusercontent.com/UmbrellaLeaf5/UmbrellaLeaf5/output/stats.svg" height="250">
 
   <!-- Umbrella Leaf from PvZ (fan .gif): -->
   <img src="https://static.wikia.nocookie.net/pvzcc/images/3/3b/Ezgif.com-video-to-gif-converter.gif/revision/latest?cb=20231227060849" height="250">
@@ -31,5 +31,5 @@
 <!-- ## Snake time! -->
 
 <div align="center">
-  <img src="https://github.com/UmbrellaLeaf5/UmbrellaLeaf5/blob/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/UmbrellaLeaf5/UmbrellaLeaf5/output/snake.svg">
 </div>
