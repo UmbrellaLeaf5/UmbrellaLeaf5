@@ -18,10 +18,10 @@ jobs:
 
       # Step 2: Generate readme stats
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: '{"username":"UmbrellaLeaf5","show_icons":true,"theme":"dark","show":["reviews","discussions_started","discussions_answered","prs_merged","prs_merged_percentage"]}'
+          options: username=UmbrellaLeaf5&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
