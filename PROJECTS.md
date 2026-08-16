@@ -82,6 +82,13 @@ Pet-project: Module of the DrugDesign project responsible for loading and pre-pr
 - **Tech Stack:** Python, ChEMBL WebResource Client, PubChemPy, Requests, Pandas, NumPy, Loguru, JSON configuration, Google Drive API, Doxygen
 - **Key Features:** Automated data pipeline from chemical databases, compound and activity downloading from ChEMBL, toxicity data extraction from PubChem, configurable filtering system, SDF file handling, retry mechanisms with exponential backoff, comprehensive logging, data validation and cleaning, batch processing with pagination
 
+### [Timeout-Dead](https://github.com/UmbrellaLeaf5/timeout-dead) ⏱️
+
+Pet-project: Lightweight cross-platform CLI utility that runs shell commands with a configurable timeout and termination signal
+
+- **Tech Stack:** Python 3.10+, standard library only, pytest, Ruff, Pyright, uv, GitHub Actions CI/CD
+- **Key Features:** Configurable timeout with TERM, KILL, HUP, and INT signals; 1-second graceful shutdown period followed by process-tree force kill; Linux, macOS, and Windows (Git Bash / WSL) support; live five-line stderr/stdout tail preview with complete final output blocks; final exit code and color-aware status; zero runtime dependencies
+
 ### [File Spec Contractor](https://github.com/UmbrellaLeaf5/file_spec_contractor) 📋
 
 Pet-project: CLI tool for generating compact `.fsc.md` file specifications via LLM API - saves tokens when AI agents work with codebases
